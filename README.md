@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rahul 👋<br>I'm currently learning everything 
+Hi there, I'm Rahul 👋<br>I'm currently learning ReactJS
 
 
 ## 🌐 Socials:
