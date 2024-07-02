@@ -1,6 +1,11 @@
 # 💫 Checkout My Live Projects: 
-React Project : https://tour-ruby.vercel.app/ <br/>
-NodeJS API : https://tour-manager-chi.vercel.app/api/tours
+React Projects:
+SnapStay - https://snapstay-bay.vercel.app/ <br/>
+Tour Manager : https://tour-ruby.vercel.app/ <br/>
+
+<br/><br/>
+NodeJS API : https://snap-stay-backend.vercel.app/cabins
+Tour Manager: https://tour-manager-chi.vercel.app/api/tours
 
 
 ## 🌐 Socials:
