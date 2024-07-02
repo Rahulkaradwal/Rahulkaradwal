@@ -4,7 +4,10 @@ SnapStay - https://snapstay-bay.vercel.app/ <br/>
 Tour Manager : https://tour-ruby.vercel.app/ <br/>
 
 <br/><br/>
-NodeJS API : https://snap-stay-backend.vercel.app/cabins
+NodeJS API : 
+<br/>
+Snap Stay : https://snap-stay-backend.vercel.app/cabins
+<br/>
 Tour Manager: https://tour-manager-chi.vercel.app/api/tours
 
 
