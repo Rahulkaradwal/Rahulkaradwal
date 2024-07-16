@@ -2,6 +2,7 @@
 React Projects: <br/>
 SnapStay - https://snapstay-bay.vercel.app/ <br/>
 Tour Manager : https://tour-ruby.vercel.app/ <br/>
+Evo Gym : https://evogym-two.vercel.app/ <br/>
 
 <br/><br/>
 NodeJS API : 
