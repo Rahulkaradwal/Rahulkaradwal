@@ -13,16 +13,10 @@
 3. **Tour Manager**  
    - Live Demo: [Tour Manager](https://tour-ruby.vercel.app/)
 
-4. **Evo Gym**  
-   - Live Demo: [Evo Gym](https://evogym-two.vercel.app/)
 
 ### NodeJS APIs:
 
-1. **SnapStay API**  
-   - API Endpoint: [SnapStay Backend](https://snap-stay-backend.vercel.app/cabins)
-
-2. **Tour Manager API**  
-   - API Endpoint: [Tour Manager Backend](https://tour-manager-chi.vercel.app/api/tours)
+<table> <tr> <td> <strong>SnapStay API</strong><br> API Endpoint: <a href="https://snap-stay-backend.vercel.app/cabins">SnapStay Backend</a> </td> <td> <strong>Tour Manager API</strong><br> API Endpoint: <a href="https://tour-manager-chi.vercel.app/api/tours">Tour Manager Backend</a> </td> </tr> </table>
 
 Feel free to explore these projects, and don't hesitate to reach out if you have any questions or feedback!
 
