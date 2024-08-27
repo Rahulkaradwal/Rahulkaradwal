@@ -2,16 +2,7 @@
 
 ### React Projects:
 
-1. **SnapStay - Hotel Room Booking Platform**  
-   - Live Demo: [SnapStay User Platform](https://snap-stay-hotel.vercel.app/)  
-   - Credentials: `user@gmail.com` / `user@123` or Register 
-
-2. **SnapStay - Admin Dashboard**  
-   - Live Demo: [SnapStay Admin Dashboard](https://snapstay-bay.vercel.app/)  
-   - Credentials: `admin@gmail.com` / `admin@123` 
-
-3. **Tour Manager**  
-   - Live Demo: [Tour Manager](https://tour-ruby.vercel.app/)
+<table> <tr> <td> <strong>SnapStay - Hotel Room Booking Platform</strong><br> Live Demo: <a href="https://snap-stay-hotel.vercel.app/">SnapStay User Platform</a><br> Credentials: <code>user@gmail.com</code> / <code>user@123</code> or Register </td> <td> <strong>SnapStay - Admin Dashboard</strong><br> Live Demo: <a href="https://snapstay-bay.vercel.app/">SnapStay Admin Dashboard</a><br> Credentials: <code>admin@gmail.com</code> / <code>admin@123</code> </td> <td> <strong>Tour Manager</strong><br> Live Demo: <a href="https://tour-ruby.vercel.app/">Tour Manager</a> </td> </tr> </table>
 
 
 ### NodeJS APIs:
