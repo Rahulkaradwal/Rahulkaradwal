@@ -1,19 +1,30 @@
-# 💫 Checkout My Live Projects: 
-React Projects: <br/>
+## 💫 Check Out My Live Projects
 
-** For user Dashboard Sign up or use {user@gmail.com, user@123}   &nbsp;&nbsp; for admin Dashboard SignUp or use {admin@gmail.com, admin@123} </br>
-SnapStay - user Dashboard - https://snap-stay-hotel.vercel.app/  &nbsp;&nbsp; SnapStay - admin Dashboard - https://snapstay-bay.vercel.app/ <br/>
+### React Projects:
 
-SnapStay - https://snapstay-bay.vercel.app/ <br/>
-Tour Manager : https://tour-ruby.vercel.app/ <br/>
-Evo Gym : https://evogym-two.vercel.app/ <br/>
+1. **SnapStay - Hotel Room Booking Platform**  
+   - Live Demo: [SnapStay User Platform](https://snap-stay-hotel.vercel.app/)  
+   - Credentials: `user@gmail.com` / `user@123` or Register 
 
-<br/><br/>
-NodeJS API : 
-<br/>
-Snap Stay : https://snap-stay-backend.vercel.app/cabins
-<br/>
-Tour Manager: https://tour-manager-chi.vercel.app/api/tours
+2. **SnapStay - Admin Dashboard**  
+   - Live Demo: [SnapStay Admin Dashboard](https://snapstay-bay.vercel.app/)  
+   - Credentials: `admin@gmail.com` / `admin@123` 
+
+3. **Tour Manager**  
+   - Live Demo: [Tour Manager](https://tour-ruby.vercel.app/)
+
+4. **Evo Gym**  
+   - Live Demo: [Evo Gym](https://evogym-two.vercel.app/)
+
+### NodeJS APIs:
+
+1. **SnapStay API**  
+   - API Endpoint: [SnapStay Backend](https://snap-stay-backend.vercel.app/cabins)
+
+2. **Tour Manager API**  
+   - API Endpoint: [Tour Manager Backend](https://tour-manager-chi.vercel.app/api/tours)
+
+Feel free to explore these projects, and don't hesitate to reach out if you have any questions or feedback!
 
 
 ## 🌐 Socials:
