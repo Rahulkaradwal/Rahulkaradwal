@@ -1,4 +1,4 @@
-## 💫 Portfoio -> <a href="https://rahul-karadwal.vercel.app/" style="text-decoration: none; font-weight: bold;">Click Here</a>
+## 💫 Portfoio - <a href="https://rahul-karadwal.vercel.app/" style="text-decoration: none;">click here</a>
 
 ### React Projects:
 
