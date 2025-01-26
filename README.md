@@ -1,13 +1,47 @@
-## 💫 Portfoio - <a href="https://rahul-karadwal.vercel.app/" style="text-decoration: none;">click here</a>
+## 💫 Portfolio - <a href="https://rahul-karadwal.vercel.app/" style="text-decoration: none;">click here</a>
 
 ### React Projects:
 
-<table> <tr> <td> <strong>SnapStay - Hotel Room Booking Platform</strong><br> Live Demo: <a href="https://snap-stay-hotel.vercel.app/">SnapStay User Platform</a><br> Credentials: <code>user@gmail.com</code> / <code>user@123</code> or Register </td> <td> <strong>SnapStay - Admin Dashboard</strong><br> Live Demo: <a href="https://snapstay-bay.vercel.app/">SnapStay Admin Dashboard</a><br> Credentials: <code>admin@gmail.com</code> / <code>admin@123</code> </td> <td> <strong>Tour Manager</strong><br> Live Demo: <a href="https://tour-ruby.vercel.app/">Tour Manager</a> </td> </tr> </table>
-
+<table>
+  <tr>
+    <td>
+      <strong>PingPanda - SaaS Platform</strong><br>
+      Live Demo: <a href="https://rahul-ping-panda.netlify.app/">PingPanda</a>
+    </td>
+    <td>
+      <strong>SnapStay - Hotel Room Booking Platform</strong><br>
+      Live Demo: <a href="https://snap-stay-hotel.vercel.app/">SnapStay User Platform</a><br>
+      Credentials: <code>user@gmail.com</code> / <code>user@123</code> or Register
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>SnapStay - Admin Dashboard</strong><br>
+      Live Demo: <a href="https://snapstay-bay.vercel.app/">SnapStay Admin Dashboard</a><br>
+      Credentials: <code>admin@gmail.com</code> / <code>admin@123</code>
+    </td>
+    <td>
+      <strong>Tour Manager</strong><br>
+      Live Demo: <a href="https://tour-ruby.vercel.app/">Tour Manager</a>
+    </td>
+  </tr>
+</table>
 
 ### NodeJS APIs:
 
-<table> <tr> <td> <strong>SnapStay API</strong><br> API Endpoint: <a href="https://snap-stay-backend.vercel.app/cabins">SnapStay Backend</a> </td> <td> <strong>Tour Manager API</strong><br> API Endpoint: <a href="https://tour-manager-chi.vercel.app/api/tours">Tour Manager Backend</a> </td> </tr> </table>
+<table>
+  <tr>
+    <td>
+      <strong>SnapStay API</strong><br>
+      API Endpoint: <a href="https://snap-stay-backend.vercel.app/cabins">SnapStay Backend</a>
+    </td>
+    <td>
+      <strong>Tour Manager API</strong><br>
+      API Endpoint: <a href="https://tour-manager-chi.vercel.app/api/tours">Tour Manager Backend</a>
+    </td>
+  </tr>
+</table>
+
 
 Feel free to explore these projects, and don't hesitate to reach out if you have any questions or feedback!
 
